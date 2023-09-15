@@ -3,7 +3,7 @@
     margin: 0%;
 }
 
-body {
+.header2 {
     background: url(../img/beader\ bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -131,12 +131,6 @@ body {
 
 /* ###################       STYLING SERVICES   ##################### */
 
-.services{
-    background:url(../img/services\ bg.jpg) ;
-    background-size: cover;
-    background-position: center;
-
-}
 
 
 .services {
@@ -144,13 +138,13 @@ body {
     width: 100%;
     padding-top: 5%;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     font-weight: bolder;
 
 }
 
 .col-services {
-    color: #f8f8f8;
+    color: #000000;
     font-size: 3em;
     border: 1px solid rgb(168, 142, 142);
     font-weight: bolder;
@@ -159,7 +153,7 @@ body {
 
 .col-services:hover {
     background-color: #e238e2;
-    color: #020202;
+    color: #fffefe;
 }
 
 .col-services p {
